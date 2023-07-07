@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "farmers-products",
   "version": "1.0.0",
   "description": "рабочий вариант",
   "keywords": [],
@@ -13,7 +13,7 @@
     "react-scripts": "4.0.0",
     "sass": "1.60.0",
     "styled-components": "5.3.9",
-    "swiper": "9.1.1"
+    "swiper": "6.8.4"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
